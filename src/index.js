@@ -7,3 +7,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <PvPCombat />
   </React.StrictMode>
 )
+
+document.body.style.margin = '0'
+document.body.style.padding = '0'
+document.body.style.background = '#0f1219'
